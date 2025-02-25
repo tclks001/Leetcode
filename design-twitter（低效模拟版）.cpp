@@ -1,3 +1,8 @@
+/**
+    355. 设计推特
+    2025/2/25 15:58
+*/
+
 class Twitter {
 private:
     vector<vector<int>> fol;
